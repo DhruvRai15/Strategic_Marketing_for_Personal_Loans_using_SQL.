@@ -64,6 +64,4 @@ The objective of this project is to analyze data related to personal loans using
 
 The analysis provided valuable insights into customer demographics, loan performance, and marketing trends, enabling more informed strategic decisions. By leveraging these insights, the company can enhance its marketing efforts, optimize loan offerings, and ultimately drive business growth.
 
----
 
-If you need more specific details or additional sections, feel free to ask!
